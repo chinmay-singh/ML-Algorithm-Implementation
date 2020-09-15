@@ -3,7 +3,7 @@ Implementation of some fundamental ML Algorithms using Python and Pandas without
 
 Algorithm | Implementation |
 --- | ---|
-Decision Tree |[Decision Tree](https://github.com/chinmay-singh/ML-Algorithm-Implementation/blob/master/DecisionTree.py) |
+Decision Tree |[DecisionTree.py](https://github.com/chinmay-singh/ML-Algorithm-Implementation/blob/master/DecisionTree.py) |
 Naive Bayes |[NaiveBayesClassifier.py](https://github.com/chinmay-singh/ML-Algorithm-Implementation/blob/master/DecisionTree.py) |
 AdaBoost Decision Trees |[adaboost_decision_tree.py](https://github.com/chinmay-singh/ML-Algorithm-Implementation/blob/master/adaboost_decision_tree.py) |
 K Means Clustering |[kMeanClustering.py](https://github.com/chinmay-singh/ML-Algorithm-Implementation/blob/master/kMeanClustering.py)|
